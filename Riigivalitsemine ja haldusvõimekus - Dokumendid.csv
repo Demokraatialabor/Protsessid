@@ -1,6 +1,6 @@
-Uuendatud,01.05.2018,,,,,,,,,,,,,,,,,,,
-Dokumendi nimi,Dokumendi liik,Dokumendi kood,Link,Vastutaja,Algatus,Koostamine,Konsulteerimine koostamisel,Juhtimine,Otsustamine,Täideviimine,Eesmärk,Tegevussuunad,Rahastus,Tulemuste monitooring/järjehoidmine,Järeldus/lõppraport/analüüs,Link,Seotud dokumendid,Rakenduskavad,Link,Muu
-Infoühiskonna AK 2020,AK,DOK-001,https://www.mkm.ee/sites/default/files/elfinder/article_files/eesti_infouhiskonna_arengukava.pdf,MKM,RK,MKM,"Töötoad era-, vaba- ja avaliku sektori partneritega",IÜ nõukogu (mida juhib MKM minister),VV?,"Rakendusplaanid
+Uuendatud,,01.05.2018,,,,,,,,,,,,,,,,,,,,,,
+Dokumendi nimi,Dokumendi kood,Dokumendi liik,Algab,Lõppeb,Viide,Vastutaja,Algatus,Koostamine,Konsulteerimine koostamisel,Juhtimine,Otsustamine,Täideviimine,Eesmärk,Tegevussuunad,Rahastus,Tulemuste monitooring/järjehoidmine,Intervall,Järeldus/lõppraport/analüüs,Kuupäev,Viide,Seotud dokumendid,Rakenduskavad,Viide,Muu
+Infoühiskonna AK 2020,DOK-001,AK,,,https://www.mkm.ee/sites/default/files/elfinder/article_files/eesti_infouhiskonna_arengukava.pdf,MKM,RK,MKM,"Töötoad era-, vaba- ja avaliku sektori partneritega",IÜ nõukogu (mida juhib MKM minister),VV?,"Rakendusplaanid
 temaatilised/ülesandepõhised töörühmad ja võrgustikud
 riigiasutuste IT-juhtide võrgustik","Interneti kättesaadavuse suurendamine
 digitaalse kirjaoskuse arendamine isikliku heaolu suurendamiseks
@@ -10,7 +10,7 @@ EL struktuurifondid
 muud välisvahendid
 sihtasutuse omavahendid (nt Eesti Lairiba Arendamise SA, Eesti Interneti SA)
 eelarve: 216 840 000","Visoonivõrgustik (Riigikantselei strateegiabüroo eestvedamisel ja Majandus- ja
- Kommunikatsiooniministeeriumi osalus)",puudub,,"Eesti 2020
+ Kommunikatsiooniministeeriumi osalus)",,puudub,,,"Eesti 2020
 Säästev Eesti 21
 Eesti julgeolekupoliitika alused
 küberjulgeoleku strateegia 2014-2017
@@ -22,7 +22,7 @@ kohaliku omavalitsuse infoühiskonna arengukava 2015
 eesti keele arengukava 2011-2017
 siseturvalisuse arengukava 2015-2020 ",Olemas,"http://infoyhiskond.eesti.ee/files/Rakendusplaan_2014-2015_web.pdf 
 https://www.valitsus.ee/sites/default/files/content-editors/arengukavad/eesti_infouhiskonna_arengukava_2020_rakendusplaan_2017-2021.xlsx",http://infoyhiskond.eesti.ee/et
-KODAR 2015-2020,AK,DOK-002,https://kysk.ee/failid/Upload/files/KODAR.pdf,SIM,SIM,EKAKi ühiskomisjon ja SIM,,SIM,"EKAKi ühiskomisjon
+KODAR 2015-2020,DOK-002,AK,,,https://kysk.ee/failid/Upload/files/KODAR.pdf,SIM,SIM,EKAKi ühiskomisjon ja SIM,,SIM,"EKAKi ühiskomisjon
 VV","Rakendusplaanid
 EKAKi ühiskomisjon
 kodanikuühendused
@@ -37,7 +37,7 @@ Kodanikeühenduste mõju suurendamine ühiskondlike probleemide ennetamisele ja 
 Kodanikeühenduse võimekuse suurendamine",,"Riigieelarve
 välisvahendid
 võimalusel era- ja kolmanda sektori vahendid
-eelarve: 7 664 793",Täitmise lõpparuanne? (vastavalt eelmisele),Aruanne esimese tegevusaasta kohta,https://www.valitsus.ee/sites/default/files/content-editors/arengukavad/kodar_aruanne_2015._aasta_kohta.pdf,"Eesti 2020
+eelarve: 7 664 793",Rakendusplaani uuendamine,1 aasta,Aruanne esimese tegevusaasta kohta,,https://www.valitsus.ee/sites/default/files/content-editors/arengukavad/kodar_aruanne_2015._aasta_kohta.pdf,"Eesti 2020
 Säästev Eesti 21
 Eesti julgeolekupoliitika alused
 Eesti elukestva õppe strateegia 2014-2020
@@ -46,27 +46,27 @@ Lõimuv Eesti 2020
 Noortevaldkonna arengukava 2014-2020
 Eesti tegevuskava avatud valitsemise partnerluses osalemiseks 2014-2016
 Euroopa Komisjon ja kodanikuühendused: partnerluse tugevdamine
-siseministeeriumi valitsemisala tegevuskava ",https://www.siseministeerium.ee/sites/default/files/elfinder/article_files/_kodar_rakendusplaan_2016-2019.pdf,,https://www.siseministeerium.ee/sites/default/files/dokumendid/Arengukavad/kaasamise_kava_kodar.pdf
-AVP TK 2016-2018,TK,DOK-003,https://riigikantselei.ee/sites/default/files/content-editors/Failid/AVP/avp_2016-2018_tegevuskava.pdf,Riigisekretär,RK,AVP koordineeriv kogu,avalik konsultatsioon,RK strateegiabüroo,AVP koordineeriv kogu,,"Kodanikukesksete avalike teenuste arendamine
-Avatud ja kaasav poliitikakujundamine",,,Riigikantselei vahearuanded,Tegevuskava täitmise iga-aastased aruanded,,,,,
-OECD riigivalitsemise raporti tegevuskava 2014,TK,DOK-004,https://riigikantselei.ee/sites/default/files/riigikantselei/strateegiaburoo/haldusvoimekuse_ja_oecd_riigivalitsemise_raporti_tegevuskava_10.12.2014.pdf,Riigisekretär,RK,RK,,Riigisekretär,VV ,"Juhtrühm - juhib riigisekretär ja kuhu kuuluvad RAM, MKM, JUM, SIM (kantslerid) ning Praxise, Eesti Koostöö Kogu ja EMSL esindajad","Poliitikakujundamise võimekuse suurendamine
+siseministeeriumi valitsemisala tegevuskava ",Olemas,https://www.siseministeerium.ee/sites/default/files/elfinder/article_files/_kodar_rakendusplaan_2016-2019.pdf,https://www.siseministeerium.ee/sites/default/files/dokumendid/Arengukavad/kaasamise_kava_kodar.pdf
+AVP TK 2016-2018,DOK-003,TK,,,https://riigikantselei.ee/sites/default/files/content-editors/Failid/AVP/avp_2016-2018_tegevuskava.pdf,Riigisekretär,RK,AVP koordineeriv kogu,avalik konsultatsioon,RK strateegiabüroo,AVP koordineeriv kogu,,"Kodanikukesksete avalike teenuste arendamine
+Avatud ja kaasav poliitikakujundamine",,,Riigikantselei vahearuanded,,Tegevuskava täitmise iga-aastased aruanded,,,,,,
+OECD riigivalitsemise raporti tegevuskava 2014,DOK-004,TK,,,https://riigikantselei.ee/sites/default/files/riigikantselei/strateegiaburoo/haldusvoimekuse_ja_oecd_riigivalitsemise_raporti_tegevuskava_10.12.2014.pdf,Riigisekretär,RK,RK,,Riigisekretär,VV ,"RAM, MKM, JUM, SIM, Praxis, Eesti Koostöö Kogu, EMSL","Poliitikakujundamise võimekuse suurendamine
 Paremad avalikud teenused
 Halduskoormuse vähendamine kodanike ja ettevõtete jaoks
 Osaliste koostöö paranemine
 Tõhusam ressursikasutus",,EL struktuuritoetus,"Haldusvõimekuse arendamise valdkondlik komisjon (s.o Riigisekretär, RM, MKM, SIM, JUM kantslerid, riigivalitsemises enim kaasa rääkivad partnerid)
-Iga-aastane aruandlus VV-le ja uuendamine ",puudub,,"Regionaalarengu AK
-Infoühiskonna AK",https://riigikantselei.ee/sites/default/files/content-editors/Failid/oecd_raporti_elluviimise_kava.pdf,,"https://www.rahandusministeerium.ee/sites/default/files/2016.03.16_poliitikakujundamise_meetme_tort_seletuskiri.pdf
+Iga-aastane aruandlus VV-le ja uuendamine ",,puudub,,,"Regionaalarengu AK
+Infoühiskonna AK",Olemas,https://riigikantselei.ee/sites/default/files/content-editors/Failid/oecd_raporti_elluviimise_kava.pdf,"https://www.rahandusministeerium.ee/sites/default/files/2016.03.16_poliitikakujundamise_meetme_tort_seletuskiri.pdf
 
 https://zonecloud.ee/index.php/s/jgjMDiSXw5ebvZc"
-Õiguspoliitika arengusuunad aastani 2018,,DOK-005,https://www.riigiteataja.ee/akt/307032011001,Justiitsminister,JUM,JUM,,JUM,VV?,,"Hea õigusloome eeskirja rakendumine
-Valitsuse õigusloome vähendamine",,,Iga-aastased ülevaated elluviimise kohta,,,,,,https://www.just.ee/sites/www.just.ee/files/elfinder/article_files/oiguspoliitika_arengusuundade_seletuskiri.pdf
-Õigusloome mahu vähendamise TK 2015,TK,DOK-006,https://www.just.ee/sites/www.just.ee/files/oigusloome_mahu_vahendamise_kava_2016.pdf,Justiitsminister,JUM,"JUM
+Õiguspoliitika arengusuunad aastani 2018,DOK-005,,,,https://www.riigiteataja.ee/akt/307032011001,Justiitsminister,JUM,JUM,,JUM,VV?,,"Hea õigusloome eeskirja rakendumine
+Valitsuse õigusloome vähendamine",,,Iga-aastased ülevaated elluviimise kohta,,,,,,,,https://www.just.ee/sites/www.just.ee/files/elfinder/article_files/oiguspoliitika_arengusuundade_seletuskiri.pdf
+Õigusloome mahu vähendamise TK 2015,DOK-006,TK,,,https://www.just.ee/sites/www.just.ee/files/oigusloome_mahu_vahendamise_kava_2016.pdf,Justiitsminister,JUM,"JUM
 RK",Avalik konsultatsioon,JUM,VV,,"vähendada õigusloome mahtu ja bürokraatiat
 kehtestada põhjalikumalt läbimõeldud reegleid
 arvestada õiguse kujundamisel sellega kaasnevat mõju ja huvirühmade seisukohti
-vähendada Eesti ja ELi õigusega kaasnevat ettevõtjate ja kodanike halduskoormust",,,Iga-aastased ettekanded elluviimise kohta,,,"Õiguspoliitika arengusuundadest aastani 2018
+vähendada Eesti ja ELi õigusega kaasnevat ettevõtjate ja kodanike halduskoormust",,,Iga-aastased ettekanded elluviimise kohta,,,,,"Õiguspoliitika arengusuundadest aastani 2018
 Eesti avatud valitsemise partnerluse tegevuskava 2014-2016",https://www.just.ee/sites/www.just.ee/files/omvk_rakendusplaan.pdf,,https://www.riigiteataja.ee/aktilisa/3030/6201/5006/231klisa.pdf
-Regionaalarengu str 2014-2020,STR,DOK-007,https://www.siseministeerium.ee/sites/default/files/dokumendid/eesti_regionaalarengu_strateegia_2014-2020.pdf,Regionaalminister,SIM,"RaM
+Regionaalarengu str 2014-2020,DOK-007,STR,,,https://www.siseministeerium.ee/sites/default/files/dokumendid/eesti_regionaalarengu_strateegia_2014-2020.pdf,Regionaalminister,SIM,"RaM
 MKM
 Maaelumin
 SoM
@@ -84,7 +84,7 @@ EAS
 maakondlikud arendamiskeskused; ülikoolide regionaalsed kolledžid","Toimepiirkondade terviklikkust ja konkurentsivõimet soosiv elu- ja ettevõtluskeskkond
 Suuremate linnapiirkondade rahvusvahelist majanduslikku konkurentsivõimet soosiv ja keskkonnasõbralik elukeskkond
 Piirkonnaspetsiifiliste ressursside oskuslikum ärakasutatus
-Piirkondade tugevam sidustatus ja arendusvõimekus",,EL ühtekuuluvuspoliitika fondid,Seirearuanded,,,"Eesti kõrgharidusstrateegia aastateks 2006-2015
+Piirkondade tugevam sidustatus ja arendusvõimekus",,EL ühtekuuluvuspoliitika fondid,Seirearuanded,,,,,"Eesti kõrgharidusstrateegia aastateks 2006-2015
 Laste ja perede arengukava 2012-2020
 rahvastiku tervise arengukava 2009-2020
 liikumisharrastuse arengukava aastateks 2011-2014
@@ -92,13 +92,12 @@ riiklik arengukava ""Eesti merendus poliitika 2012-2020""
 looduskaitse arengukava aastani 2020, eesti keele AK 2011-2017
 energiamajanduse riiklik AK aastani 2020
 kodanikuühiskonna AK 2011-2014",https://www.rahandusministeerium.ee/sites/default/files/document_files/REGO/lisa_1_eras_2020_rakendusplaan_2014-17.pdf,,https://www.valitsus.ee/sites/default/files/content-editors/arengukavad/eras_2014-15_seirearuanne.pdf
-Riigireformi TK 2017 jaanuar - 2019 märts,TK,DOK-008,https://www.rahandusministeerium.ee/sites/default/files/riigireformi_tegevuskava_11_5_2017.pdf,Riigihalduse minister,VV,RaM ,"Kõik ministeeriumid
+Riigireformi TK 2017 jaanuar - 2019 märts,DOK-008,TK,,,https://www.rahandusministeerium.ee/sites/default/files/riigireformi_tegevuskava_11_5_2017.pdf,Riigihalduse minister,VV,RaM ,"Kõik ministeeriumid
 Avaliku teenistuse tippjuhid (ajurünnak)","RaM
 JuM",VV,Riigireformi koordinatsioonikogu (esindaja igast ministeeriumist),"kvaliteetsemate teenuste pakkumine inimestele
 maapiirkondade konkurentsivõime kasv
 valitsemise mahu vähenemine avalikus sektoris",,,"Riigikogu riigireformi arengusuundade väljatöötamise probleemkomisjon
-Mõjuanalüüsid
-https://www.reformiradar.ee/",puudub,,"Vabariigi Valitsuse tegevusprogramm 2015–2019 
+Mõjuanalüüsid",,puudub,,https://www.reformiradar.ee/,"Vabariigi Valitsuse tegevusprogramm 2015–2019 
 Rahandusministeeriumi valitsemisala arengukava aastateks 2016–2019",,,"https://www.rahandusministeerium.ee/system/files_force/document_files/riigi_ulesannete_analuusi_luhikokkuvote.pdf?download=1
 Infokiri nr 1: https://www.rahandusministeerium.ee/sites/default/files/riigihaldus/riigivalitsemise_reform/riigivalitsemise_reformi_infokiri_1_2016_3.pdf
 Infokiri nr 2: https://www.rahandusministeerium.ee/sites/default/files/riigihaldus/riigivalitsemise_reform/riigivalitsemise_reformi_infokiri_nr_2.pdf
@@ -106,7 +105,7 @@ Infokiri nr 3: https://www.rahandusministeerium.ee/sites/default/files/riigihald
 Infokiri nr 4: https://www.rahandusministeerium.ee/sites/default/files/riigihaldus/riigivalitsemise_reform/riigivalitsemise_reformi_infokiri_nr_4_29_08_2016_002.pdf
 Infokiri nr 5: https://www.rahandusministeerium.ee/sites/default/files/riigihaldus/riigivalitsemise_reform/riigivalitsemise_reformi_infokiri_nr_5_23_09_2016.pdf
 Infokiri nr 6: https://www.rahandusministeerium.ee/sites/default/files/rahandusministeeriumi_infokiri_22_11_16_0.pdf"
-Riigi kui tööandja personalipoliitika VR 2014,,DOK-009,http://www.praxis.ee/wp-content/uploads/2015/06/Riigi_kui_tooandja_personalipoliitika_valge_raamat.pdf,Riigihalduse minister,Valitsuskabinet,"RaM
+Riigi kui tööandja personalipoliitika VR 2014,DOK-009,,,,http://www.praxis.ee/wp-content/uploads/2015/06/Riigi_kui_tooandja_personalipoliitika_valge_raamat.pdf,Riigihalduse minister,Valitsuskabinet,"RaM
 RK tippjuhtide kompetentsikeskus
 ministeeriumid","Aivo Adamson (Maanteeamet)
 Marek Helm (Maksu- ja Tolliamet)
@@ -143,8 +142,8 @@ kogemuste vahetamiseks võimaluste loomine
 avaliku teenistuse siseste kontaktide ja koostöö süvendamine
 avaliku teenistuse personalijuhtimise taseme ühtlustamine
 personalijuhtideni päevakajalise info toomine
-ülevaate saamine personalijuhtide ootustest ja tagasiside saamine RaMi tegevusele personalitöö valdkondade koordineerimisel",,Euroopa Sotsiaalfond,,,,,http://dokreg.kul.ee/index.php?id=10318&op=doc_details&dok_id=41245&asutus_id=1,,https://www.riigiteataja.ee/aktilisa/3030/6201/5006/231klisa.pdf
-Avalike teenuste korraldamise RR 2013,,DOK-010,https://www.mkm.ee/sites/default/files/avalike_teenuste_korraldamise_roheline_raamat.pdf,MKM,VV,ITAO,"ministeeriumid
+ülevaate saamine personalijuhtide ootustest ja tagasiside saamine RaMi tegevusele personalitöö valdkondade koordineerimisel",,Euroopa Sotsiaalfond,,,,,,,http://dokreg.kul.ee/index.php?id=10318&op=doc_details&dok_id=41245&asutus_id=1,,https://www.riigiteataja.ee/aktilisa/3030/6201/5006/231klisa.pdf
+Avalike teenuste korraldamise RR 2013,DOK-010,,,,https://www.mkm.ee/sites/default/files/avalike_teenuste_korraldamise_roheline_raamat.pdf,MKM,VV,ITAO,"ministeeriumid
 Riigikontroll
 Riigikantselei
 Eesti Linnade Liit
@@ -172,16 +171,16 @@ Eesti Mittetulundusühingute ja Sihtasutuste Liit
 Eesti Linnade Liit
 Eesti Maaomavalitsuste Liit
 E-riigi Akadeemia Sihtasutus
-Eesti Kaubandus-Tööstuskoda",MKM,,Tegevus- ja arengukavad,"leppida kokku eeldused lihtsa, mittekoormava, arusaadava, läbipaistva, turvalise, tõhusa ja kuluefektiivse avaliku teenuse korraldamiseks riigi ja kohalike omavalitsuste asutuste poolt",,,,,,,,,
-"Eesti inimarengu aruande ""Eesti rändeajastul"" 2017 soovitused ",,DOK-011,,,,,,,,,,,,,,,,,,
-Arenguseire Keskuse stsenaariumid,,DOK-012,,,,,,,,,,,,,,,,,,
-Eesti tehisintellekti strateegia,,DOK-013,https://riigikantselei.ee/et/uudised/eesti-saab-tehisintellekti-strateegia,,,,,,,,,,,,,,,,,
-Eesti 2035,,DOK-014,,Riigikantselei strateegiabüroo,,,,,,,,,,,,,,,,
-Eesti avatud valitsemise partnerluse tegevuskava 2018-2019,,DOK-015,,,,,,,,,,,,,,,,,,
-Riigireformi põhialuseid,,DOK-016,,Riigikogu,,,,,,,,,,,,,,,,
-Tallinn 2020+,,DOK-017,,,,,,,,,,,,,,,,,,
-Metsanduse arengukava 2030,,DOK-018,https://www.envir.ee/sites/default/files/kohtumiselt_kogutud_esialgsed_ettepanekud_mak2030le.pdf,,,,,,,,,,,,,,,,,
-Säästev Eesti 21,STR,DOK-019,https://riigikantselei.ee/sites/default/files/content-editors/Failid/saastev_eesti_21.pdf,RK,VV - lähteülesanne,TLU,"5 ekspertrühma, milles osales üle 50 eri eluvaldkondade
+Eesti Kaubandus-Tööstuskoda",MKM,,Tegevus- ja arengukavad,"leppida kokku eeldused lihtsa, mittekoormava, arusaadava, läbipaistva, turvalise, tõhusa ja kuluefektiivse avaliku teenuse korraldamiseks riigi ja kohalike omavalitsuste asutuste poolt",,,,,,,,,,,
+"Eesti inimarengu aruande ""Eesti rändeajastul"" 2017 soovitused ",DOK-011,,,,,,,,,,,,,,,,,,,,,,,
+Arenguseire Keskuse stsenaariumid,DOK-012,,,,,,,,,,,,,,,,,,,,,,,
+Eesti tehisintellekti strateegia,DOK-013,,,,https://riigikantselei.ee/et/uudised/eesti-saab-tehisintellekti-strateegia,,,,,,,,,,,,,,,,,,,
+Eesti 2035,DOK-014,,,,,Riigikantselei strateegiabüroo,,,,,,,,,,,,,,,,,,
+Eesti avatud valitsemise partnerluse tegevuskava 2018-2019,DOK-015,,,,,,,,,,,,,,,,,,,,,,,
+Riigireformi põhialuseid,DOK-016,,,,,Riigikogu,,,,,,,,,,,,,,,,,,
+Tallinn 2020+,DOK-017,,,,,,,,,,,,,,,,,,,,,,,
+Metsanduse arengukava 2030,DOK-018,,,,https://www.envir.ee/sites/default/files/kohtumiselt_kogutud_esialgsed_ettepanekud_mak2030le.pdf,,,,,,,,,,,,,,,,,,,
+Säästev Eesti 21,DOK-019,STR,,,https://riigikantselei.ee/sites/default/files/content-editors/Failid/saastev_eesti_21.pdf,RK,VV - lähteülesanne,TLU,"5 ekspertrühma, milles osales üle 50 eri eluvaldkondade
 asjatundja. Tallinna Pedagoogikaülikooli (TPÜ) Rahvusvaheliste
 ja Sotsiaaluuringute Instituut
 TPÜ Ökoloogia Instituut
@@ -189,6 +188,6 @@ Eesti Tuleviku-uuringute Instituut
 AS Lõhmus, Haavel ja Viisemann,
 Eesti Inseneride Liit
 Partnerina osales Säästva Eesti Instituut –
-SEI-Tallinn",SAK,"VV, Riigikogu",SAK,Eesti kultuuriruumi elujõulisus; Heaolu kasv; Sidus ühiskond; Ökoloogiline tasakaal,,,SAK SDGd,,,,,,
-"Konkurentsivõime kava ""Eesti 2020""",STR,DOK-020,https://riigikantselei.ee/sites/default/files/content-editors/Failid/eesti2020/ee2020_tekstiosa_2018-2020_heaks_kiidetud_26.4.2018.pdf,VV,,Ministeeriumidevaheline konkurentsivõime töörühm,Lisaks töörühmale kaasatakse kava koostamisesse kõik olulised partnerid ja osalusveebi kaudu ka laiem huviliste ring,Riigisekretär,VV,Ministeeriumidevaheline konkurentsivõime töörühm,Saavutada tootlikkuse kiire kasv; Taastada majanduskriisi eelne kõrge tööhõive tase,,,"""Eesti 2020“ kava uuendatakse valitsuse otsusega iga aasta aprilli lõpuks",Vahearuanne,https://riigikantselei.ee/sites/default/files/content-editors/organisatsioon/failid/eesti_2020_vahearuanne.pdf,,TK,https://riigikantselei.ee/sites/default/files/content-editors/Failid/eesti2020/ee2020_tegevuskava_2018-2020_heaks_kiidetud_26.4.2018.pdf,"""Eesti 2020“ kava uuendatakse valitsuse otsusega iga aasta aprilli lõpuks. Eelnevalt koostatakse igal aastal kava elluviimise aruanne, milles antakse ülevaade seatud eesmärkide saavutamisest, juba läbi viidud reformidest ning Euroopa Liidu soovituste täitmisest."
-Julgeolekupoliitika alused,STR,DOK-021,http://www.kaitseministeerium.ee/sites/default/files/sisulehed/eesmargid_tegevused/395xiii_rk_o_lisa.pdf,,,,,,VV,,,,,,,,,,,
+SEI-Tallinn",SAK,"VV, Riigikogu",SAK,Eesti kultuuriruumi elujõulisus; Heaolu kasv; Sidus ühiskond; Ökoloogiline tasakaal,,,SAK SDGd,,,,,,,,
+"Konkurentsivõime kava ""Eesti 2020""",DOK-020,STR,,,https://riigikantselei.ee/sites/default/files/content-editors/Failid/eesti2020/ee2020_tekstiosa_2018-2020_heaks_kiidetud_26.4.2018.pdf,VV,,Ministeeriumidevaheline konkurentsivõime töörühm,Lisaks töörühmale kaasatakse kava koostamisesse kõik olulised partnerid ja osalusveebi kaudu ka laiem huviliste ring,Riigisekretär,VV,Ministeeriumidevaheline konkurentsivõime töörühm,Saavutada tootlikkuse kiire kasv; Taastada majanduskriisi eelne kõrge tööhõive tase,,,Riigikantselei,,Vahearuanne,,https://riigikantselei.ee/sites/default/files/content-editors/organisatsioon/failid/eesti_2020_vahearuanne.pdf,,TK,https://riigikantselei.ee/sites/default/files/content-editors/Failid/eesti2020/ee2020_tegevuskava_2018-2020_heaks_kiidetud_26.4.2018.pdf,"""Eesti 2020“ kava uuendatakse valitsuse otsusega iga aasta aprilli lõpuks. Eelnevalt koostatakse igal aastal kava elluviimise aruanne, milles antakse ülevaade seatud eesmärkide saavutamisest, juba läbi viidud reformidest ning Euroopa Liidu soovituste täitmisest."
+Julgeolekupoliitika alused,DOK-021,STR,,,http://www.kaitseministeerium.ee/sites/default/files/sisulehed/eesmargid_tegevused/395xiii_rk_o_lisa.pdf,RK,,VV,"Välisministeeriumi, Kaitseministeeriumi, Siseministeeriumi, Majandus- ja Kommunikatsiooniministeeriumi, Sotsiaalministeeriumi, Keskkonnaministeeriumi ja Rahandusministeeriumi esindajatega. Koostamise protsessi koordineeris Riigikantselei juures Välisministeeriumi rahvusvaheliste organisatsioonide büroo nõunik Margus Kolga",RK,Riigikogu,,"Kindlustada Eesti riigi iseseisvus ja sõltumatus, rahva ja riigi kestmine, territoriaalne terviklikkus, põhiseaduslik kord ja elanikkonna turvalisus.","Diplomaatia, sõjaline kaitse, turvalisus ja põhiseadusliku korra kaitse, konfliktiennetus ja kriisiohje, majandusjulgeolek ja seda toetav taristu, küberjulgeolek, elukeskkonna kindlus ning ühiskonna kerksus ja sidusus.",,Riigikogu,,,,,,AK,https://riigikantselei.ee/sites/default/files/content-editors/Failid/rkak_2017_2026_avalik_osa.pdf,"Julgeolekupoliitika aluseid muudetakse või täiendatakse vastavalt sellele, kuidas muutuvad julgeolekukeskkond ja Eesti julgeoleku tagamise võimalused, kuid iga Riigikogu koosseis uuendab neid vähemalt iga nelja aasta järel. Seletuskiri > https://www.osale.ee/konsultatsioonid/files/consult/292_JPA%20seletuskiri_03_01_2017.pdf"
