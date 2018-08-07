@@ -1,0 +1,36 @@
+5ad70180d7d7746a84378baa	1. Välis- ja julgeolekupoliitika ning riigikaitse
+5ad70180d7d7746a84378bab	1.1. Välis- ja Euroopa Liidu poliitika
+5ad70180d7d7746a84378bac	1.2. Julgeolek ja riigikaitse
+5ad70180d7d7746a84378bba	2. Majanduspoliitika, riiklikud investeeringud ja maksundus
+5ad70180d7d7746a84378bba	2.1. Riigi rahandus
+5ad70180d7d7746a84378bbb	2.2. Ettevõtlus, innovatsioon
+5ad70180d7d7746a84378bbc	2.3. Transport
+5ad70180d7d7746a84378bbd	2.4. Infoühiskond
+5ad70180d7d7746a84378bca	3. Demokraatia, riigivalitsemine ja kodanikuühiskond
+5ad70180d7d7746a84378bcb	3.1. Riigivalitsemine
+5ad70180d7d7746a84378bcc	3.2. Kodanikuühiskonna arendamine
+5ad70180d7d7746a84378bda	4. Teadus- ja hariduspoliitika
+5ad70180d7d7746a84378bdb	4.1. Teadus
+5ad70180d7d7746a84378bdc	4.2. Haridus
+5ad70180d7d7746a84378bdd	4.3. Eesti keel ja eestlus
+5ad70180d7d7746a84378bea	5. Kultuur ja sport
+5ad70180d7d7746a84378beb	5.1. Kultuur
+5ad70180d7d7746a84378bec	5.2. Sport
+5ad70180d7d7746a84378bea	6. Keskkond ja energeetika
+5ad70180d7d7746a84378beb	6.1. Keskkond
+5ad70180d7d7746a84378bec	6.2. Energeetika
+5ad70180d7d7746a84378bfa	7. Kohalikud omavalitsused ja regionaalpoliitika
+5ad70180d7d7746a84378bfb	7.1. Regionaalareng ja maaelu
+5ad70180d7d7746a84378bfc	8. Maaelu
+5ad70180d7d7746a84378bfd	8.1. Põllumajandus ja kalandus
+5ad70180d7d7746a84370baa	9. Siseturvalisus ja õigusruum
+5ad70180d7d7746a84370bab	9.1. Siseturvalisus
+5ad70180d7d7746a84370bab	9.2. Õiguskord
+5ad70180d7d7746a84378bba	10. Sotsiaalpoliitika ja tervishoid
+5ad70180d7d7746a84370bbb	10.1. Perepoliitika
+5ad70180d7d7746a84378bbc	10.2. Tööturg
+5ad70180d7d7746a84370bbd	10.3. Sotsiaalne kaitse
+5ad70180d7d7746a84370bbe	10.4. Tervis
+5ad70180d7d7746a84370bca	11. Integratsioon
+5ad70180d7d7746a84370bca	11.1. Lõimumine
+5ad70180d7d7746a84370bca	11.2. Kodakondsuspoliitika
