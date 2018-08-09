@@ -1,5 +1,5 @@
 # Protsessid
-Selle kanali kaudu toimub Eesti strateegiliste dokumentide loomise ja elluviimise ühisloomeline kaardistamine.
+Selle kanali kaudu toimub Eesti strateegiliste dokumentide loomise ja elluviimise ühisloomeline seostamine.
 
 ## Nägid mõnda #demokraatialabori visuaali, mida on vaja täiendada?
 Visuaalide failid siin:
