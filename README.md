@@ -2,7 +2,7 @@
 Selle kanali kaudu toimub Eesti strateegiliste dokumentide loomise ja elluviimise ühisloomeline kaardistamine.
 
 ## Kuidas siin kaasa lüüa?
-Selleks, et siin osaleda, ei ole vaja eriteadmisi. Selle reprositooriumil on väga kirju kasutajaskond - sisuekspertidest tehnoloogiaekspertidini.
+Selleks, et siin osaleda, ei ole vaja eriteadmisi. Selle reprositooriumil on väga kirju kasutajaskond - sisuekspertidest tehnoloogiaekspertideni.
 
 ## Nägid mõnda visuaali, mida on vaja täiendada?
 Kõik visuaalid on tehtud kasutades andmeid sellest tabelist:
