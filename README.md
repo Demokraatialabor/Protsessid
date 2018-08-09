@@ -1,27 +1,19 @@
 # Protsessid
-See on Eesti riigivalitsemise ja haldusvõimekuse kaardistuse algus.
+Selle kanali kaudu toimub Eesti strateegiliste dokumentide loomise ja elluviimise ühisloomeline kaardistamine.
 
-## Algus - kiire arengu faas
-Tabelina vaadeldav _GSheetsis_ siin: https://docs.google.com/spreadsheets/d/1z_mg2WrgHGE541uOnp-hXcZGLPfgbGWR4lLj2REszhw
-Samad tabelid on .csv kujul üles laaditud siia reprositooriumisse. Praegu on _gsheet_ tabel väga aktiivses ühisloomelises uuenemises ja kui jupp tööd on tehtud, uuendame .csv-sid.
+## Kuidas siin kaasa lüüa?
+Selleks, et siin osaleda, ei ole vaja eriteadmisi. Selle reprositooriumil on väga kirju kasutajaskond - sisuekspertidest tehnoloogiaekspertidini.
 
-## Keskpikk - stabiilse arengu faas
-Kui alguspunkt on piisavalt täienenud (üldised põhimõtted on paigas), siis pöördub protsess nii, et iga täiendaja:
-1) laeb enda .csv alla,
-2) täiendab selle,
-3) laeb üles,
-4) teeb _pull request_,
-5) võtame _pull request_'i vastu,
-6) uuendame _GSheet_ tabelit.
+## Nägid mõnda visuaali, mida on vaja täiendada?
+Kõik visuaalid on tehtud kasutades andmeid sellest tabelist:
+https://docs.google.com/spreadsheets/d/1z_mg2WrgHGE541uOnp-hXcZGLPfgbGWR4lLj2REszhw/edit#gid=0
+Kui soovid mõnda lahtrisse infot lisada või parandada, siis kliki lahtril ning avanevast menüüst vali "Insert comment".
+Palun lisa viide, kust kohast see info pärineb.
 
-# Kuidas osaleda?
-Oleme täiesti kindlad, et siia saab lisada juurde väga palju kasulikku infot.
-Ja kõike seda saab paremini struktureerida.
-Selleks täiendage faile ning tehke _pull request_.
-
-Kui soovite enne arutada, siis palume ettepanekud tabeli strukutuuri parandamiseks ja uue info lisamiseks postitada uude _Issusse_ https://github.com/Demokraatialabor/Protsessid/issues/new
-
-Meil on paranduste üle väga hea meel!
+## Sul on mõni muu küsimus?
+Küsimused, ettepanekud ja arutelu on kõige parem pidada kommentaariumis.
+Kommentaarium on siin: https://github.com/Demokraatialabor/Protsessid/issues
+Uue teema loomiseks kliki nupul _New issue_.
 
 # Visualiseeringud
 Selle tabeli eesmärk on soodustada seoste loomist erinevate protsesside vahel.
@@ -31,5 +23,9 @@ Proovime väledalt nii suureks paisuda, et üldstruktuur enam muutuste tuules ni
 
 # Muud küsimused
 Ootame tagasisidet ja nõuandeid. Palun postitage need uute _issudena_.
+
+
+Meil on paranduste üle väga hea meel!
+
 
 #demokraatialabor
