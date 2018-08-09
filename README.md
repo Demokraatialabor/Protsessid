@@ -4,6 +4,7 @@ Selle kanali kaudu toimub Eesti strateegiliste dokumentide loomise ja elluviimis
 ## Nägid mõnda #demokraatialabori visuaali, mida on vaja täiendada?
 Kõik visuaalid on tehtud kasutades andmeid sellest tabelist:
 https://docs.google.com/spreadsheets/d/1z_mg2WrgHGE541uOnp-hXcZGLPfgbGWR4lLj2REszhw/edit#gid=0
+
 Kui soovid mõnda lahtrisse infot lisada või parandada, siis kliki lahtril ning avanevast menüüst vali "Insert comment".
 Palun lisa viide, kust kohast see info pärineb.
 
