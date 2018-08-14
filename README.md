@@ -2,6 +2,9 @@
 Selle kanali kaudu toimub Eesti strateegiliste dokumentide loomise ja elluviimise ühisloomeline seostamine.
 
 ## Nägid mõnda #demokraatialabori visuaali, mida on vaja täiendada?
+Interaktiivne visuaal Graphcommons keskkonnas:
+https://graphcommons.com/graphs/95e97fd5-15d5-4fdb-bda7-f7656e9b0bd7
+
 Visuaalide failid siin:
 https://github.com/Demokraatialabor/Protsessid/tree/master/Visuaalid%20Arvamusfestivali%20Koosloome%20alal%202018
 
