@@ -1,12 +1,14 @@
-Uuendatud Githubis,https://github.com/Demokraatialabor/Protsessid,18.06.2018
+Uuendatud Githubis,https://github.com/Demokraatialabor/Protsessid,05.08.2018
 Dokumendi liigid,,
 AK,arengukava,
 STR,strateegia,
 TK,tegevuskava,
 VR,valge raamat,
 RR,roheline raamat,
-KODAR,kodanikuühiskonna arengukava,
-RAPORT,"raportid, kokkuvõtted, ülevaated",
+RAPORT,"raportid, kokkuvõtted, ülevaated, aruanne",
+KONV,Konventsioon,https://et.wikipedia.org/wiki/Konventsioon
+DEK,deklaratsioon,
+,,
 Organisatsioonid,,
 VV,Vabariigi Valitsus,
 HTM,Haridus- ja teadusministeerium,
@@ -26,6 +28,7 @@ ITAO,Infoühiskonna teenuste arendamise osakond,
 EMSL,Vabaühenduste liit,
 SAK,Säästva arengu komisjon,
 EKAK,Avaliku sektori ja kodanikuühenduste ühiskomisjon,
+EU_NÕ,Euroopa Nõukogu,
 Mõõdikud,,
 SDG,Üleilmsed säästva arengu eesmärgid,https://riigikantselei.ee/sites/default/files/content-editors/Failid/eesti_saastva_arengu_naitajate_nimekiri_20.12.2017.pdf
 Muu,,
